@@ -1,6 +1,5 @@
 # aboutme
-MANIK CHHABRA
-Contact No: +91-9899104118	
+MANIK CHHABRA	
 manikchhabra10@gmail.com
 
 
